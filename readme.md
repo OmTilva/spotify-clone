@@ -28,7 +28,11 @@ Check out the live demo of the project [here](https://melodix.freewebhostmost.co
 
 ## Contact
 
+-**Author**:
+  -Om Tilva
+  
 - Feel free to reach out if you have any questions or suggestions:
 
 - Email: omtilva1910@gmail.com
 - LinkedIn: [your-linkedin](https://www.linkedin.com/in/om-tilva1910)
+- 
