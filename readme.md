@@ -26,11 +26,11 @@ Check out the live demo of the project [here](https://melodix.freewebhostmost.co
 - Visit the application: Open your browser and go to http://localhost:3000.
 - Explore features: Browse through songs and enjoy music playback.
 
-## Contact
-
--**Author**:
+## Author
   - Om Tilva
   
+## Contact
+
 - Feel free to reach out if you have any questions or suggestions:
 
 - Email: omtilva1910@gmail.com
