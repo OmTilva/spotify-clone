@@ -35,4 +35,4 @@ Check out the live demo of the project [here](https://melodix.freewebhostmost.co
 
 - Email: omtilva1910@gmail.com
 - LinkedIn: [your-linkedin](https://www.linkedin.com/in/om-tilva1910)
-- 
+
