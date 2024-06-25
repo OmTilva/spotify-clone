@@ -29,7 +29,7 @@ Check out the live demo of the project [here](https://melodix.freewebhostmost.co
 ## Contact
 
 -**Author**:
-  -Om Tilva
+  - Om Tilva
   
 - Feel free to reach out if you have any questions or suggestions:
 
